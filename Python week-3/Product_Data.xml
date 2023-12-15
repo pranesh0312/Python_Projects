@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Product>Desktop Computer</Product>
+    <Price>700.0</Price>
+  </row>
+  <row>
+    <Product>Tablet</Product>
+    <Price>250.0</Price>
+  </row>
+  <row>
+    <Product>Printer</Product>
+    <Price>120.0</Price>
+  </row>
+  <row>
+    <Product>Laptop</Product>
+    <Price>1200.0</Price>
+  </row>
+</data>
